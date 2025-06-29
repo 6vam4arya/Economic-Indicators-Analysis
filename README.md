@@ -6,7 +6,7 @@ An analytical framework utilizing the Federal Reserve Economic Data (FRED) API t
 - Cleans and preprocesses data for analysis  
 - Provides visualizations to compare and explore economic indicators
 
-  ## Technologies Used
+## Technologies Used
 - **Programming Language:** Python 
 - **Data Retrieval:** [FRED API](https://fred.stlouisfed.org/docs/api/fred/)  
 - **Data Manipulation:** Pandas, Numpy  
